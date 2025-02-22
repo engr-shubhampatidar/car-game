@@ -25,7 +25,7 @@ The **Simple Car Game** is a minimalist game where you control a car moving on a
 ### 🚀 Getting Started  
 1. **Clone the repository:**  
     ```sh
-    git clone https://github.com/your-username/simple-car-game.git
+    git clone https://github.com/engr-shubhampatidar/car-game.git
     cd simple-car-game
     ```
 2. **Open the `index.html` file** in your browser to start playing.
@@ -40,7 +40,7 @@ The **Simple Car Game** is a minimalist game where you control a car moving on a
 ---
 
 ### 🔗 Live Demo  
-Play the game here: [Live Demo](https://your-username.github.io/simple-car-game/)  
+Play the game here: [Live Demo](https://engr-shubhampatidar.github.io/car-game/)  
 
 ---
 
